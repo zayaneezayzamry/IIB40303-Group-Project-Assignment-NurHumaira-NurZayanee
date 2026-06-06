@@ -2,8 +2,8 @@
 
 ## Group Members
 
-1. Nur Humaira binti Abdul Wahab
-2. Nur Zayanee Mahfuzah binti Zayzamry
+1. Nur Humaira binti Abdul Wahab (52224123318)
+2. Nur Zayanee Mahfuzah binti Zayzamry (52224123241)
 
 # Course
 
