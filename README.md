@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 * netflix_analysis.ipynb – Jupyter Notebook containing the analysis.
 * IIB40303_GroupProjectReport_NurHumaira_NurZayanee.pdf – Final project report.
-* Netflix Analysis Presentation.pdf – Presentation slides.
+* Netflix Analysis Presentation.pptx – Presentation slides.
 * netflix_titles.csv – Dataset used for analysis.
 
 # Key Findings
